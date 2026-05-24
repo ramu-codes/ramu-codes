@@ -14,3 +14,24 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi there 👋
+
+I'm a B.Tech CSE student passionate about:
+- MERN Stack Development
+- Artificial Intelligence
+- Data Structures & Algorithms
+- Building real-world projects
+
+## 🚀 Tech Stack
+- JavaScript, Java, Python
+- React, Node.js, Express
+- MongoDB, SQL
+- Git & GitHub
+
+## 📌 Current Focus
+- Improving DSA skills
+- Learning AI/ML
+- Building scalable web applications
+
+## 🌱 Motto
+"Code. Learn. Improve. Repeat."
